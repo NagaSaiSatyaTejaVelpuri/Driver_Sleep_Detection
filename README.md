@@ -1,6 +1,10 @@
-# Driver_Sleep_Detection
-Ide: Spyder
-Language: Python version 3.6
+# Driver_Sleep_Detection_using_OpenCV
+
+Every year thousands of road accidents occur due to drowsy driving and naps during driving. This must be treated with the same surmount importance and seriousness as seatbelt, airbags and etc. 
+In this project, we developed a machine learning model that can recognize drivers who are sleepy / drowsy and buzz an alarm to wake them up and hence saving their lives. This has been demonstrated using a webcam of laptops which can be scaled up and implemented in any vehicle with minor environmental settings. 
+
+### Ide: Spyder
+### Language: Python version 3.6
 
 ### Algorithms and data used:
 -------------------------
